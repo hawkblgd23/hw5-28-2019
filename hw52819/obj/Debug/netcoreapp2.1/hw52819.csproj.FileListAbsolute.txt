@@ -1,0 +1,11 @@
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\bin\Debug\netcoreapp2.1\hw52819.deps.json
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\bin\Debug\netcoreapp2.1\hw52819.runtimeconfig.json
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\bin\Debug\netcoreapp2.1\hw52819.runtimeconfig.dev.json
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\bin\Debug\netcoreapp2.1\hw52819.dll
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\bin\Debug\netcoreapp2.1\hw52819.pdb
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\obj\Debug\netcoreapp2.1\hw52819.csprojAssemblyReference.cache
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\obj\Debug\netcoreapp2.1\hw52819.csproj.CoreCompileInputs.cache
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\obj\Debug\netcoreapp2.1\hw52819.AssemblyInfoInputs.cache
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\obj\Debug\netcoreapp2.1\hw52819.AssemblyInfo.cs
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\obj\Debug\netcoreapp2.1\hw52819.dll
+C:\Users\Shawn Hawkins\source\repos\hw52819\hw52819\obj\Debug\netcoreapp2.1\hw52819.pdb
